@@ -1,0 +1,20 @@
+article{
+    position: relative;
+    left: 0px;
+    right: 100px;
+    top: 0px;
+
+
+}
+article2{
+    position: relative;
+    right: 0px;
+    top: 0px;
+    left: 300px;
+}
+article3{
+    position: relative;
+    right: 100px;
+    top: 0px;
+    left: 300px;
+}

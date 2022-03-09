@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+.container img{
+    margin: 0 auto -15px 0;
+}
+.content{
+    text-align: center;
+    margin: 0 60px;
+    background-color: rgba(250,250,250,1);
+}
+#searchInput{
+    width: 40%;
+}
+.box{
+    margin-top: 4px;
+    width: 33%;
+    height: 76px;
+    float: left;
+    margin-right: 1.5px;
+    padding: 10px 20px;
+}
+.box a{
+    display: block;
+}
+.first{
+    background-color: rgb(126,229,218);
+}
+
+.second{
+    font-size: 12px;
+    background-color: rgb(112,204,194);
+}
+.third{
+    font-size: 12px;
+    padding: 4px 10px;
+    background-color: rgb(98,179,170);
+}
+.third a{
+    display: inline-block;
+}
+
+.copyRightDiv{
+    margin-top: 100px;
+    font-size: 14px;
+    text-align: center;
+}
